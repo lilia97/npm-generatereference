@@ -1,0 +1,32 @@
+{
+  "name": "npm-generatereference",
+  "version": "1.0.4",
+  "description": "This generates a unique identifier with a random color. It also can update the prices according to the tax percentage or the discount wanted, and it allows the calculation of the sum of the prices.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "generatereference",
+    "generatereceipt",
+    "receipt",
+    "unique string",
+    "random color",
+    "update price",
+    "tax update",
+    "sales update",
+    "discount price",
+    "prices",
+    "string",
+    "colors",
+    "sum",
+    "total"
+  ],
+  "author": "lilia97",
+  "license": "MIT",
+  "dependencies": {
+    "randomstring": "^1.1.5"
+  },
+  "devDependencies": {}
+}
